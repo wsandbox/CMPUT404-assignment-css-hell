@@ -1,8 +1,8 @@
-p {margin-top:.2em;text-align:justify;margin-bottom:.2em;text-indent:4%;}
+p {margin-top:.2em;text-align:justify;margin-bottom:.2em;text-indent:4%; font-style: italic;}
 
 .c {text-align:center;text-indent:0%;}
 
-.cb {text-align:center;text-indent:0%;font-weight:bold; font-size: small;}
+.cb {text-align:center;text-indent:0%;font-weight:bold; font-size: x-large;}
 
 .cbs {text-align:center;text-indent:0%;font-weight:bold;
 font-family: sans-serif, serif;font-size:70%;}
@@ -15,12 +15,21 @@ font-family: sans-serif, serif;font-size:70%;}
 
 .r {text-align:right;margin-right: 5%;}
 
-small {font-size: 80%;font-weight:normal;}
+.titlePage {text-align: center; font-size: large;}
 
- h1 {margin-top:5%;text-align:center;clear:both;}
+
+pre {text-align: center;}
+
+i {text-align: center;}
+
+ul {text-align: inherit;}
+
+small {font-size: 80%;font-weight:normal; font-family: Georgia, 'Times New Roman', Times, serif;}
+
+ h1 {margin-top:5%;text-align:center;clear:both;font-size: xx-large; font-weight: bold; font-family: Georgia, 'Times New Roman', Times, serif;}
 
  h2 {margin-top:5%;margin-bottom:2%;text-align:center;clear:both;
- font-size:120%;}
+ font-size:120%; font-weight: bold; font-family: Georgia, 'Times New Roman', Times, serif;}
 
  hr {width:90%;margin:2em auto 2em auto;clear:both;color:black;}
 
@@ -33,19 +42,19 @@ small {font-size: 80%;font-weight:normal;}
  body{margin-left:2%;
   margin-right:2%;
   background-image: url('old_scroll1.jpg');
-  font-family:"Luminari";
+  font-family: Georgia, 'Times New Roman', Times, serif;
   font-size:medium;}
 
 .un {text-decoration:underline;text-indent:0%;
 margin:2% auto 2% 15%;}
 
-a:link {color:blue;text-decoration:none;}
+a:link {color:darkred;text-decoration:none; font-weight: bold; text-decoration: underline;}
 
-  link {color:blue;text-decoration:none;}
+  link {color:darkred;text-decoration:none; }
 
-a:visited {color:purple;text-decoration:none;}
+a:visited {color:purple;text-decoration:none;text-decoration: underline;}
 
-a:hover {color:#FF0000;text-decoration:underline;}
+a:hover {color:darkblue;text-decoration:underline;}
 
 .smcap  {font-variant:small-caps;font-size:100%;}
 
@@ -67,6 +76,6 @@ margin:1% auto 3% auto;max-width:50%;}
 margin-left:auto;margin-right:auto;text-align:center;text-indent:0%;}
 
 .poem {margin-left:20%;text-indent:0%;font-size:.9em;}
-.poem .stanza     {margin-top: 1em;margin-bottom:1em;}
+.poem .stanza     {margin-top: 1em;margin-bottom:1em; font-style: italic; font-family: Georgia, 'Times New Roman', Times, serif;}
 .poem span.i0     {display: block; margin-left: 0em; padding-left: 3em; text-indent: -3em;}
 .poem span.i4     {display: block; margin-left: 2em; padding-left: 3em; text-indent: -3em;}
