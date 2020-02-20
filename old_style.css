@@ -17,7 +17,6 @@ font-family: sans-serif, serif;font-size:70%;}
 
 .titlePage {text-align: center; font-size: large;}
 
-
 pre {text-align: center;}
 
 i {text-align: center;}
@@ -58,7 +57,7 @@ a:hover {color:darkblue;text-decoration:underline;}
 
 .smcap  {font-variant:small-caps;font-size:100%;}
 
- img {border:none;}
+img {border:5px solid black;}
 
 .blockquot {margin-top:2%;margin-bottom:2%;}
 

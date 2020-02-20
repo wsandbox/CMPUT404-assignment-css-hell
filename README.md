@@ -35,3 +35,4 @@ Changes applied:
 - Added underlines to hyperlinked text
 - Changed link colors to dark red; dark blue when visited
 - centered all pre elements 
+- added a border to img elements
