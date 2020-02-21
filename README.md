@@ -23,6 +23,10 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Cited Sources:
+=================
+- https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
+
 Changes applied:
 =================
 - Changed the font-family for body items to Georgia, serif
