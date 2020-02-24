@@ -25,7 +25,7 @@ Code is licensed under the Apache 2.0 license.
 
 Cited Sources:
 =================
-- https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp
+- https://www.w3schools.com/howto/
 
 Changes applied:
 =================
